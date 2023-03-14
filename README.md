@@ -18,15 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-num1 = float(input()) 
-num2 = float(input())
+#Program to swap two values.
+#Developed by:  HARISH RAGAV S
+#RegisterNumber: 212222110013
+input1=int(input())
+input2=int(input())
+temp=input2
+input2=input1
+input1=temp
+print("Swapped values are:",input1,input2)
 
-temp = num1
-num1 = num2 
-num2 = temp
 
-print("Swapped values are:",num1,num2)
-
+## OUTPUT:
+![Screenshot 2023-03-14 180541](https://user-images.githubusercontent.com/119345345/225003357-7ec6b32a-227e-4a85-bc00-b62c2f9b5366.png)
 
 
 ## RESULT:
