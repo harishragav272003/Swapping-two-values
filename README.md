@@ -24,7 +24,7 @@ End the program
 
 #RegisterNumber: 212222110013
 
-input1=int(input())
+```input1=int(input())
 
 input2=int(input())
 
@@ -35,6 +35,7 @@ input2=input1
 input1=temp
 
 print("Swapped values are:",input1,input2)
+```
 
 
 ## OUTPUT:
