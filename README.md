@@ -23,11 +23,11 @@ End the program
 #Developed by:  HARISH RAGAV S
 #RegisterNumber: 212222110013
 
-input1=int(input())
+num1=int(input())
 input2=int(input())
-temp=input2
-input2=input1
-input1=temp
+temp = num1
+num1 = num2
+num2 = temp 
 print("Swapped values are:",input1,input2)
 ```
 
