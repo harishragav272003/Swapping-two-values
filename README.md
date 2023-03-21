@@ -24,11 +24,11 @@ End the program
 #RegisterNumber: 212222110013
 
 num1=int(input())
-input2=int(input())
+num2=int(input())
 temp = num1
 num1 = num2
 num2 = temp 
-print("Swapped values are:",input1,input2)
+print("Swapped values are:",num1,num2)
 ```
 
 
