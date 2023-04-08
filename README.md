@@ -23,8 +23,8 @@ End the program
 #Developed by:  HARISH RAGAV S
 #RegisterNumber: 212222110013
 
-num1=int(input())
-num2=int(input())
+num1=float(input())
+num2=float(input())
 temp = num1
 num1 = num2
 num2 = temp 
